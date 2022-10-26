@@ -1,0 +1,15 @@
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/bin/Debug/net6.0/MalfabonMminichallenge2
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/bin/Debug/net6.0/MalfabonMminichallenge2.deps.json
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/bin/Debug/net6.0/MalfabonMminichallenge2.runtimeconfig.json
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/bin/Debug/net6.0/MalfabonMminichallenge2.dll
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/bin/Debug/net6.0/MalfabonMminichallenge2.pdb
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/obj/Debug/net6.0/MalfabonMminichallenge2.csproj.AssemblyReference.cache
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/obj/Debug/net6.0/MalfabonMminichallenge2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/obj/Debug/net6.0/MalfabonMminichallenge2.AssemblyInfoInputs.cache
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/obj/Debug/net6.0/MalfabonMminichallenge2.AssemblyInfo.cs
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/obj/Debug/net6.0/MalfabonMminichallenge2.csproj.CoreCompileInputs.cache
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/obj/Debug/net6.0/MalfabonMminichallenge2.dll
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/obj/Debug/net6.0/refint/MalfabonMminichallenge2.dll
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/obj/Debug/net6.0/MalfabonMminichallenge2.pdb
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/obj/Debug/net6.0/MalfabonMminichallenge2.genruntimeconfig.cache
+/Users/michellemalfabon/Desktop/MalfabonMminichallenge2/obj/Debug/net6.0/ref/MalfabonMminichallenge2.dll
